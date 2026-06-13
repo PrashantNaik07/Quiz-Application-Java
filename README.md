@@ -28,5 +28,5 @@ A console-based Quiz Application developed using Java. The application presents 
    java -cp src Main
 
 ## Author
-Prashanta Kumar Naik
-INTERNID - CITS3195
+- Prashanta Kumar Naik
+- INTERNID - CITS3195
