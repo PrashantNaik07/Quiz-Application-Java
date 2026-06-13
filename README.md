@@ -22,10 +22,10 @@ A console-based Quiz Application developed using Java. The application presents 
 
 ## How to Run
 1. Compile:
-   javac src/*.java
+   javac *.java
 
 2. Run:
-   java -cp src Main
+   java Main
 
 ## Author
 - Prashanta Kumar Naik
