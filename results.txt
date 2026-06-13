@@ -1,0 +1,20 @@
+Name: Prashant
+Score: 1/10
+Percentage: 10.00%
+----------------------------
+Name: Prash
+Score: 1/10
+Percentage: 10.00%
+---------------------------------
+Name: Bikram
+Score: 2/10
+Percentage: 20.00%
+---------------------------------
+Name: Rahul
+Score: 3/10
+Percentage: 30.00%
+---------------------------------
+Name: Sonu
+Score: 4/10
+Percentage: 40.00%
+---------------------------------
